@@ -12,3 +12,5 @@ Skills: Python, C, Java, Dart, Kotlin, HTML, CSS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceydanurilhan)](https://github.com/ceydanurilhan/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceydanurilhan&layout=compact)](https://github.com/ceydanurilhan/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ceydanurilhan)](https://git.io/streak-stats)
