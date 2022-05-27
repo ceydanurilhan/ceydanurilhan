@@ -9,6 +9,6 @@ Skills: Python, C, Java, Dart, Kotlin, HTML, CSS
 - 📫 How to reach me: https://www.linkedin.com/in/ceydanur-ilhan-838ba3181/
 - 😄 Pronouns: she/her
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceydanurilhan&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceydanurilhan)](https://github.com/ceydanurilhan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceydanurilhan)](https://github.com/ceydanurilhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceydanurilhan&layout=compact)](https://github.com/ceydanurilhan/github-readme-stats)
