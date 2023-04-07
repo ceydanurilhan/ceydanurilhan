@@ -14,3 +14,5 @@ Skills: Python, C, Java, Dart, Kotlin, HTML, CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceydanurilhan&layout=compact)](https://github.com/ceydanurilhan/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ceydanurilhan)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=ceydanurilhan)
