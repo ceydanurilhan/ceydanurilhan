@@ -15,4 +15,3 @@ Skills: Python, C, Java, Dart, Kotlin, HTML, CSS
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ceydanurilhan)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=ceydanurilhan)
